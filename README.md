@@ -7,7 +7,7 @@ thereby presenting your findings about the effect of the marketing campaign in t
 company’s 2023 sales. 
 
 PROJECT INSTRUCTIONS
-Week 5 – Excel Project
+ Excel Project
 • An Excel file containing the data has been provided. Do your data cleaning, analysis and visualization 
 on the Excel file.
 • Create a presentation slide using any platform of your choice (pdf, Canva, google slides, power point, 
